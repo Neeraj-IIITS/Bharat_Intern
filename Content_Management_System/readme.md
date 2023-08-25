@@ -1,7 +1,5 @@
 # TutorEase Content Management System
 
-![TutorEase Logo](link-to-your-logo.png)
-
 Welcome to TutorEase, a dynamic content management system designed to simplify learning and content access. Whether you're a beginner in programming or an experienced developer, TutorEase has something for everyone.
 
 ## Features
@@ -20,7 +18,7 @@ Welcome to TutorEase, a dynamic content management system designed to simplify l
 
 ## Installation
 
-1. Clone this repository: `git clone https://github.com/yourusername/TutorEase.git`
+1. Clone this repository: `git clone: https://github.com/Neeraj-IIITS/Bharat_Intern.git`
 2. Configure your web server to serve the project's files.
 3. Import the MySQL database schema using `database.sql`.
 4. Update the database configuration in `config.php`.
@@ -49,7 +47,7 @@ This project is licensed under the [MIT License](LICENSE).
 
 ## Contact
 
-Have questions or suggestions? Feel free to reach out at your@email.com.
+Have questions or suggestions? Feel free to reach out at neerajm.2002@email.com.
 
 ---
 
